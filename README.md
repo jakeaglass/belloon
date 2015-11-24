@@ -1,4 +1,4 @@
-##Belloon &ndash; Bellarmine College Prep's High Altitude Balloon Project—Code, Schematics, and PCB Layout
+##Belloon &ndash; Bellarmine College Prep's High Altitude Balloon Project &ndash; Code, Schematics, and PCB Layout
 
 Launching in winter of 2016 (targeting January) to ~35km of altitude with a 1600g Hydrogen-filled latex balloon and a sensor package complete with the following:
 
